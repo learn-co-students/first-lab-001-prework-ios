@@ -1,0 +1,1 @@
+Added this file to make spec/lab_spec.rb pass.
